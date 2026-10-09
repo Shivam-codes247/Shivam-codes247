@@ -10,10 +10,10 @@ I'm building my data analytics skills through hands-on projects, from Python fun
 - 📊 **E-commerce Sales & Customer Analysis**: exploring revenue trends and customer behavior
 - 🐍 **Python to Data Analyst**: documenting my learning journey step by step
 - 📚 Currently learning:
-      NumPy & Pandas — Data manipulation, cleaning, and transformation.
-      SQL — Querying databases, joins, aggregations, and solving analytical problems.
-      Microsoft Excel — Data cleaning, formulas, and data analysis.
-      Power BI — Upcoming focus: data visualization and interactive dashboards.
+      NumPy & Pandas — Data manipulation, cleaning, and transformation.                  <BR>
+      SQL — Querying databases, joins, aggregations, and solving analytical problems.    <BR>
+      Microsoft Excel — Data cleaning, formulas, and data analysis.                      <BR>
+      Power BI — Upcoming focus: data visualization and interactive dashboards.          <BR>
 
 ## 🛠️ Skills
 **Languages:** Python, SQL                                      <BR>
