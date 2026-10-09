@@ -16,10 +16,10 @@ I'm building my data analytics skills through hands-on projects, from Python fun
       Power BI — Upcoming focus: data visualization and interactive dashboards.
 
 ## 🛠️ Skills
-**Languages:** Python, SQL
-**Libraries:** Pandas, NumPy, Matplotlib, Seaborn
-**Tools:** Jupyter Notebook, Excel, Git & GitHub, VS Code
-**Concepts:** Data Cleaning, EDA, Data Visualization
+**Languages:** Python, SQL                                      <BR>
+**Libraries:** Pandas, NumPy, Matplotlib, Seaborn               <BR>
+**Tools:** Jupyter Notebook, Excel, Git & GitHub, VS Code       <BR>
+**Concepts:** Data Cleaning, EDA, Data Visualization            <BR>
 
 ## 📁 Featured Projects
 | Project | Description |
