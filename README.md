@@ -8,7 +8,6 @@ I'm building my analytics skills through hands-on projects, from Python fundamen
 
 ## 🔭 What I'm Working On
 
-- 📊 **E-commerce Sales & Customer Analysis**: exploring revenue trends and customer behavior
 - 🐍 **Python to Data Analyst**: documenting my learning journey, step by step
 
 ## 📚 Currently Learning
